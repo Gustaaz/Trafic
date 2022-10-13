@@ -1,0 +1,79 @@
+.home_container {
+    width: 920px;
+    margin: 0 auto;
+    padding: 6px;
+
+
+}
+
+.postagem {
+    padding: 20px;
+    margin-bottom: 20px;
+    background: white;
+}
+
+.conteudo_lateral{
+    background: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.area_postagens {
+    width: 660px;
+    float: left;
+
+}
+
+
+.area_lateral {
+    width: 240px;
+    float: right;
+
+}
+.data_postagem{
+    font-size: 0.8em;
+    border-bottom: 1px solid #f4f4f4;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+
+
+.postagem_lateral{
+    font-size: 0.8em;
+    padding: 5px;
+    border-bottom: 1px dotted #ccc;
+}
+
+
+/*  Formatações Gerais */
+
+
+
+.home_container h1 {
+    color: #e4e4e4;
+    font-size: 2.5em;
+}
+
+.home_container h2 {
+    color: #f7b600;
+
+}
+
+.home_container h3 {
+    color: #565656;
+    background: #CCC;
+    padding: 5px;
+
+}
+
+
+.home_container a {
+    text-decoration: none;
+    color: #f7b600;
+
+}
+
+
+
+

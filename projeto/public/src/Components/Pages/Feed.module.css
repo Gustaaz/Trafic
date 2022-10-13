@@ -1,0 +1,28 @@
+.home_container {
+    width: 920px;
+    margin: 0 auto;
+    padding: 6px;
+
+
+}
+
+/*  Formatações Gerais */
+
+.home_container h2 {
+    color: #f7b600;
+	text-align: center;
+	font-size: 2.5em;
+
+
+}
+
+.home_container p {
+    
+	text-align: justify;
+
+}
+
+.home_container img {
+    
+	display: block;
+	margin: 0px auto;}
